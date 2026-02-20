@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="Data Analysis Accelerator", layout="wide")
+st.set_page_config(page_title="daa-pgwise", layout="wide")
 
 st.title("🚀 Data Analysis Accelerator")
 st.caption("Use the sidebar to navigate modules.")
